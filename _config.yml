@@ -11,17 +11,17 @@ locale                   : "en-US"
 title                    : "JK Subramony"
 title_separator          : "/"
 name                     : &name "JK"
-description              : &description "This is my academic webpage"
+description              : &description "Hello"
 url                      : https://jksubramony.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jksubramony/jksubramony.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jkhomepic.png"
   name             : "Jayakrishnan(JK) Subramony"
   pronouns         : "he/him"  
   bio              : "I am a first-year PhD student in the Linguistics Department at the University of Southern California"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           : "jksubramony"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
