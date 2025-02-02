@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2024 - currentː Ph.D in Linguistics, University of Southern California, Los Angeles, CA, USA
+* 2021 to 2023ː M.A. in Computational Linguistics, The English and Foreign Languages University, Hyderabad, India
+* 2016 - 2021ː Integrated BSMS in Physics and Mathematics, Indian Institute of Science Education and Research, Thiruvananthapuram, India
 
+<ǃ---  
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,7 +32,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
 Skills
 ======
 * Skill 1
@@ -62,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
